@@ -25,3 +25,12 @@ code {
   height: 600px;
   width: 900px;
 }
+
+
+
+@media screen and (max-width: 735px) {
+  #map {
+    height: 90%;
+    width: 100%;
+  }
+}
