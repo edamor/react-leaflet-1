@@ -26,6 +26,10 @@ code {
   width: 900px;
 }
 
+.popup-component {
+  text-align: justify;
+}
+
 
 
 @media screen and (max-width: 735px) {
